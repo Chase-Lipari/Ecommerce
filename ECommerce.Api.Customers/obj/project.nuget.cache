@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UgUoV/1hHtXQNJH1UAewyF/Jggp1ob5oQ+0ji+NeOtTIauHq0/V82gocuoFLI2e/t/B9Xp5J1oKOkqOdbGt7Gw==",
+  "dgSpecHash": "5//ICRM0dyDZYZbPak1zAAg75F2Rv1l1fSl48FVOfxmXBjALwtq9UJBAqUtlvZhhtIGbnUK444PXOQJJJjZ6cw==",
   "success": true,
-  "projectFilePath": "D:\\Web3\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -24,6 +24,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.31\\microsoft.extensions.logging.abstractions.3.1.31.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

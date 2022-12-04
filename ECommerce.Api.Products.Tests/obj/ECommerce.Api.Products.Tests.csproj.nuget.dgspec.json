@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web3\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {}
+    "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Web3\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {
+    "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web3\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
         "projectName": "ECommerce.Api.Products.Tests",
-        "projectPath": "D:\\Web3\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Web3\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
-                "projectPath": "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
+              "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+    "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "projectName": "ECommerce.Api.Products",
-        "projectPath": "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Web3\\ECommerce\\ECommerce.Api.Products\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Git\\ECommerce\\ECommerce.Api.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -139,6 +139,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.31, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
             }
           },
           "imports": [
